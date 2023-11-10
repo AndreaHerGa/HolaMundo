@@ -22,6 +22,7 @@ st.write("Nombre: Andrea Hernández García")
 st.write("Carrera: Ingenieria en sistemas computacionales")
 st.write("No.control: 19091346")
 st.write("Edad: 22 años")
+st.write("Prueba")
 
 !streamlit run HolaMundo.py & npx localtunnel --port 8501 & wget -q -O -ipv4icanhazip.com
 
